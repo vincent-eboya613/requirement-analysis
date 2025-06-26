@@ -132,7 +132,7 @@ Example: "The system must run on Windows Server and support MySQL."
 
 
 
-![My cool image](alx-booking-uc.png)
+![My cool design](alx-booking-uc.png)
 
 Importance of Acceptance Criteria in Requirement Analysis
 Acceptance criteria define the conditions a requirement must meet to be considered complete and acceptable by stakeholders. They are important because:
