@@ -58,6 +58,118 @@ Help identify system functionality.
 
 Aid communication between stakeholders.
 
+Why is Requirement important
+It is  is important because it ensures the software meets user needs, prevents costly errors, and guides the entire development process with clear goals.
+
+Activities in Requirement Analysis 
+Requirement Gathering
+Collecting information from stakeholders about their needs and expectations.
+
+Requirement Elicitation
+Using interviews, surveys, or workshops to draw out detailed requirements.
+
+Requirement Documentation
+Recording the gathered requirements clearly for reference and development.
+
+Requirement Analysis and Modeling
+Organizing, analyzing, and creating models to understand requirements better.
+
+Requirement Validation
+Checking if the documented requirements are complete, correct, and aligned with user needs.
+
+
+List and describe at least three key reasons why Requirement Analysis is critical in the SDLC.
+Reasons Why Requirement Analysis is Critical in SDLC
+Prevents Miscommunication
+It ensures all stakeholders have a clear, shared understanding of what the system should do.
+
+Reduces Development Errors
+By identifying requirements early, it helps avoid costly mistakes and rework during later stages.
+
+Improves Project Planning
+Clear requirements allow for accurate time, cost, and resource estimation, leading to better project management.
+
+Activities in Requirement Analysis
+Requirement Gathering
+Collecting information from stakeholders about their needs and expectations.
+
+Requirement Elicitation
+Using interviews, surveys, or workshops to draw out detailed requirements.
+
+Requirement Documentation
+Recording the gathered requirements clearly for reference and development.
+
+Requirement Analysis and Modeling
+Organizing, analyzing, and creating models to understand requirements better.
+
+Requirement Validation
+Checking if the documented requirements are complete, correct, and aligned with user needs.
+Types of Requirements
+Functional Requirements
+Describe what the system should do—its features and functions.
+Example: "The system shall allow users to make bookings."
+
+Non-Functional Requirements
+Define how the system performs tasks—quality attributes like speed, security, and usability.
+Example: "The system should load all pages within 2 seconds."
+
+Business Requirements
+High-level goals or needs of the organization behind the project.
+Example: "Increase online booking rates by 30% in six months."
+
+User Requirements
+Specific needs or expectations of the end-users interacting with the system.
+Example: "Users should be able to cancel a booking through their dashboard."
+
+System Requirements
+Detailed technical specifications needed to build and run the system.
+Example: "The system must run on Windows Server and support MySQL."
+
+
+
+
+
+
+
+
+![My cool image](alx-booking-uc.png)
+
+Importance of Acceptance Criteria in Requirement Analysis
+Acceptance criteria define the conditions a requirement must meet to be considered complete and acceptable by stakeholders. They are important because:
+
+Ensure clarity: They remove ambiguity by setting clear expectations for each requirement.
+
+Guide development and testing: They help developers know when a feature is done and testers know what to validate.
+
+Reduce misunderstandings: They align stakeholders, developers, and testers on what success looks like.
+
+Improve quality: They ensure requirements meet user needs before approval or release.
+
+User must be logged in to access the booking page.
+
+User must be able to select a service, date, and time from available options.
+
+The system must prevent double-booking for the same slot.
+
+User must receive a booking summary before confirming.
+
+A confirmation message must appear after booking is submitted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
